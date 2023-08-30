@@ -1,0 +1,7 @@
+com\fairoz\questionservice\model\QuestionWrapper.class
+com\fairoz\questionservice\model\Question.class
+com\fairoz\questionservice\QuestionServiceApplication.class
+com\fairoz\questionservice\model\Response.class
+com\fairoz\questionservice\service\QuestionService.class
+com\fairoz\questionservice\controller\QuestionController.class
+com\fairoz\questionservice\Doa\QuestionDoa.class
